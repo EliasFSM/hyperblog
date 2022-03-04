@@ -1,0 +1,1 @@
+print("Hola este es mi primer programa de Python hecho desde la terminal y que irá a mi repositorio de GITHUB")
